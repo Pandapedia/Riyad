@@ -1,0 +1,18 @@
+.hero-area {
+   width: 1140px;
+   margin: auto;
+   padding: 20px;
+   background: #f2f2f2;
+}
+
+.hero-area h1 {
+   font-size: 50px;
+}
+
+.hero-area p {
+   font-size: 20px;
+   line-height: 31px;
+}
+.hero-area span {
+   color: #ff0099;
+}
